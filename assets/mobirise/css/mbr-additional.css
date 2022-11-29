@@ -1094,6 +1094,8 @@ section.lazy-placeholder:after {
 .cid-toosSoKxDu .carousel-inner > .next,
 .cid-toosSoKxDu .carousel-inner > .prev {
   display: flex;
+  width: 100%;
+  max-height: 500px !important;
 }
 .cid-toosSoKxDu .carousel-control .icon-next,
 .cid-toosSoKxDu .carousel-control .icon-prev {
@@ -1314,9 +1316,13 @@ section.lazy-placeholder:after {
 .cid-toosSoKxDu .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-toosSoKxDu .carousel-inner {
+  width: 100%;
+  max-height: 700px !important;
+}
 .cid-tosSuOsvcf {
   padding-top: 60px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-tosSuOsvcf .mbr-section-subtitle {
