@@ -1399,6 +1399,65 @@ section.lazy-placeholder:after {
 .cid-totkiyEKdg .mbr-text {
   text-align: center;
 }
+.cid-toDGmqfcP6 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #f9f9f9;
+}
+.cid-toDGmqfcP6 .mbr-section-text {
+  color: #767676;
+}
+.cid-toDGmqfcP6 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-toDGmqfcP6 .tabcont {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-toDGmqfcP6 .mbr-iconfont {
+  font-size: 48px;
+}
+.cid-toDGmqfcP6 .card-img {
+  margin-bottom: 1.5rem;
+}
+.cid-toDGmqfcP6 .tab-content-row {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-toDGmqfcP6 .tab-content {
+  margin-top: 3rem;
+  width: 100%;
+}
+.cid-toDGmqfcP6 .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-toDGmqfcP6 .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #767676;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 3px;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: color .3s;
+  border: 2px solid #767676;
+}
+.cid-toDGmqfcP6 .nav-tabs .nav-link:hover {
+  background: #149dcc;
+}
+.cid-toDGmqfcP6 .nav-tabs .nav-link.active {
+  color: #ffffff;
+  font-style: normal;
+  border: 2px solid #149dcc;
+  background: #149dcc;
+}
+.cid-toDGmqfcP6 .nav-tabs .nav-link.active:hover {
+  border: 2px solid #149dcc;
+}
 .cid-tozZsg7nYR {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1466,7 +1525,7 @@ section.lazy-placeholder:after {
   opacity: .5;
 }
 .cid-tozQNR5k52 {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 60px;
   background-color: #f5fff5;
 }
