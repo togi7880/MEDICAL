@@ -1087,6 +1087,12 @@ section.lazy-placeholder:after {
 .cid-toopopmlPv .facebookb {
   width: 50px;
   padding-right: 150px;
+  background-color: white;
+}
+@media (max-width: 1000px) {
+  .cid-toopopmlPv #hideonmobile1 {
+    display: none;
+  }
 }
 .cid-toosSoKxDu .modal-body .close {
   background: #1b1b1b;
@@ -2164,6 +2170,12 @@ section.lazy-placeholder:after {
 .cid-toopopmlPv .facebookb {
   width: 50px;
   padding-right: 150px;
+  background-color: white;
+}
+@media (max-width: 1000px) {
+  .cid-toopopmlPv #hideonmobile1 {
+    display: none;
+  }
 }
 .cid-totvTuDDAi {
   padding-top: 120px;
@@ -2723,6 +2735,12 @@ section.lazy-placeholder:after {
 .cid-toopopmlPv .facebookb {
   width: 50px;
   padding-right: 150px;
+  background-color: white;
+}
+@media (max-width: 1000px) {
+  .cid-toopopmlPv #hideonmobile1 {
+    display: none;
+  }
 }
 .cid-totuejQuFM {
   padding-top: 120px;
@@ -3489,6 +3507,12 @@ section.lazy-placeholder:after {
 .cid-toopopmlPv .facebookb {
   width: 50px;
   padding-right: 150px;
+  background-color: white;
+}
+@media (max-width: 1000px) {
+  .cid-toopopmlPv #hideonmobile1 {
+    display: none;
+  }
 }
 .cid-totz0k09Io {
   padding-top: 45px;
